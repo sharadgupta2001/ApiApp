@@ -1,0 +1,680 @@
+[
+  {
+    "organisation": {
+      "parentGroupName": "HSBCG",
+      "brandName": "HSBC UK",
+      "brandId": "HSBC UK"
+    },
+    "product": {
+      "productType": "PCA",
+      "productName": "HSBC Advance Account",
+      "productSegment": "Package",
+      "productIdentifier": "HSBC Advance Account",
+      "productDescription": "HSBC Advance is our re-designed current account proposition which provides you with preferential rates along with mobile and Online Banking tools to help you to stay in control of your finances and achieve your goals for the future.",
+      "ATMLimit": "500.00",
+      "tAndCs": [
+        "http://www.hsbc.co.uk/1/PA_esf-ca-app-content/content/uk/pdfs/en/46447_PersonalBankingTermsConditions.pdf"
+      ],
+      "accessChannels": [
+        "SMARTPHONE",
+        "INTERNET",
+        "PHONE",
+        "BRANCH"
+      ],
+      "cardType": "Debit Visa",
+      "contactless": "Yes",
+      "mobileWallet": [
+        "Apple Pay",
+        "Android Pay",
+        "Issuer Mobile App"
+      ],
+      "cardNotes": [
+        "Subject to status"
+      ],
+      "chequebookAvailable": "Yes",
+      "isCreditCheckPerformed": "Yes",
+      "creditScoringAccount": [],
+      "creditScoringType": "",
+      "creditScoringDetails": "",
+      "creditScoringIdVerification": "Yes",
+      "maximumMonthlyCharge": "",
+      "productUrl": [
+        "http://www.hsbc.co.uk/1/2/current-accounts/hsbc-advance"
+      ],
+      "currency": [
+        "GBP"
+      ]
+    },
+    "card": {
+      "paymentSchemeExchangeRate": "",
+      "exchangeRateAdjustment": "",
+      "paymentSchemeExchangeFeeRate": [],
+      "nonSterlingTransactionFee": [],
+      "nonSterlingTransactionfeeRate": [],
+      "nonSterlingPurchaseFee": [],
+      "nonSterlingPurchaseFeeRate": [],
+      "nonSterlingCashFee": [],
+      "nonSterlingCashFeeRate": [],
+      "foreignPurchaseFee": [],
+      "foreignPurchaseFeeRate": [],
+      "foreignCashFee": [],
+      "foreignCashFeeRate": []
+    },
+    "eligibility": {
+      "ageRestricted": "Yes",
+      "minimumAge": "18",
+      "maximumAge": "",
+      "otherFinancialHolding": "",
+      "eligibilityDescription": ".",
+      "incomeRelated": "Yes",
+      "singleJointIncome": "",
+      "minimumIncomeAmount": "",
+      "minimumIncomeCurrency": "GBP",
+      "minimumIncomeTimePeriod": "",
+      "waysMinIncomePaidIn": "",
+      "minIncomePaidAccountMonth": "1750.00",
+      "annualCompanyTurnover": "",
+      "annualCompanyTurnoverCurrency": "",
+      "residencyRestricted": "Yes",
+      "residencyRegion": "EU",
+      "maxNoOfAccounts": "",
+      "ThirdSectorOrganisations": "No",
+      "minimumDeposit": "No",
+      "openingDepositMinAmount": [],
+      "openingDepositMinCurrency": "",
+      "maximumOpeningAmount": "",
+      "openingDepositMaximumAmount": [],
+      "openingDepositMaxCurrency": "",
+      "eligibilityName": "",
+      "eligibilityType": "",
+      "eligibilityNotes": [
+        "You must pay at least £1,750 into your account each month (or a minimum of £10,500 every six months) not including money transferred from any other sole or joint personal account(s) you hold with HSBC Bank. Subject to status and internal checks."
+      ],
+      "previousBankruptcy": "Yes",
+      "marketingEligibility": []
+    },
+    "fee": [
+      {
+        "feeType": [
+          "Statement Copy Fee"
+        ],
+        "feeSubType": [],
+        "startPromotion": "",
+        "stopPromotion": "",
+        "lengthPromotional": "",
+        "dateOfChange": "",
+        "frequency": [
+          "Per Occurence"
+        ],
+        "feeAmount": [
+          "1.00"
+        ],
+        "feeRate": [],
+        "negotiable": [
+          "No"
+        ],
+        "representativeRate": "",
+        "feeLowerTier": [],
+        "feeHigherTier": [],
+        "feeAndCharges": [
+          "£1 a sheet (maximum charge £10 per request) or free via Online Banking"
+        ]
+      }
+    ],
+    "creditInterest": {
+      "creditCharged": "No",
+      "interestRateType": [],
+      "startDate": [],
+      "period": [],
+      "endDate": "",
+      "calculationFrequency": "",
+      "paymentMethod": [],
+      "fixedInterestLength": "",
+      "fixedInterestUnit": [],
+      "calculationMethod": [],
+      "interestTier": "",
+      "tierValueMaximum": "",
+      "tierValueMinimum": ".",
+      "rate": [],
+      "rateComparisionType": [],
+      "interestNotes": "",
+      "interestSubType": [],
+      "startPromotion": [],
+      "stopPromotion": [],
+      "lengthPromotional": [],
+      "dateOfChange": []
+    },
+    "overdraft": {
+      "overdraftEligibility": "Yes",
+      "interestTierSME": "",
+      "interestTierPersonal": "",
+      "tierValueMinimum": "",
+      "tierValueMaximum": "",
+      "interestRateGross": "",
+      "interestNotes": "",
+      "totalOverDraftChargeAmount": "",
+      "maxUnarrangedOverdraftAmount": [],
+      "minUnarrangedOverdraftAmount": "",
+      "dailyOverdraftFeeCap": "",
+      "monthlyOverdraftFeeCap": "",
+      "arrangedOverdraftInterestTiers": "Our current overdraft interest rate is 17.9% EAR variable",
+      "interestRate": [],
+      "interestRateCalculationFrequency": [],
+      "unArrangedOverdraftInterestTiers": "17.90",
+      "representative": [],
+      "dailyCharge": [],
+      "monthlyCharge": [],
+      "itemCharge": [],
+      "otherCharge": [],
+      "unArrangedDailyCharge": [
+        "5.00"
+      ],
+      "unArrangedMonthlyCharge": [],
+      "unArrangedItemCharge": [],
+      "unArrangedOtherCharge": [],
+      "overdraftNotes": [
+        "We’ll charge you Overdraft Interest whenever you’ve an overdrawn balance on your account. Our current Overdraft Interest rate is 17.9% EAR variable. If you apply for a current account or credit, we may use details of your credit history to assess your ability to meet your financial commitments. We won’t charge, more than £80 in daily Informal Overdraft Usage Fees in a charging month; Overdrafts are subject to status."
+      ],
+      "ratesAreNegotiable": [],
+      "representativeRate": [],
+      "bufferAmount": [],
+      "commited": [],
+      "term": [],
+      "setUpFeesAmount": [],
+      "setUpFeesRate": [],
+      "reviewFee": [],
+      "minimumFee": [],
+      "interestTierSubType": [],
+      "startPromotion": [],
+      "stopPromotion": [],
+      "lengthPromotional": [],
+      "dateOfChange": [],
+      "unAuthorizedFee": [],
+      "unAuthorizedFeeCap": []
+    },
+    "benefits": {
+      "featureType": [
+        "ATM cash withdrawals"
+      ],
+      "featureName": [
+        "Worldwide ATM cash withdrawals"
+      ],
+      "featureDescription": [
+        "Worldwide ATM cash withdrawals without HSBC non-sterling cash fees (A non-sterling transaction fee of 2.75% still applies)"
+      ],
+      "featureValue": [],
+      "defaultToAccounts": [
+        "Yes"
+      ],
+      "benefitId": [],
+      "benefitType": [],
+      "criteriaType": [],
+      "minimumCriteria": [],
+      "maximumCriteria": [],
+      "counter": [],
+      "description": [],
+      "endDate": [],
+      "promotionStartDate": [],
+      "promotionEndtDate": [],
+      "benefitSubType": "",
+      "startPromotion": [],
+      "stopPromotion": [],
+      "lengthPromotional": [],
+      "dateOfChange": []
+    }
+  },
+  {
+    "organisation": {
+      "parentGroupName": "HSBCG",
+      "brandName": "HSBC UK",
+      "brandId": "HSBC UK"
+    },
+    "product": {
+      "productType": "PCA",
+      "productName": "HSBC Bank Account",
+      "productSegment": "General",
+      "productIdentifier": "HSBC Bank Account",
+      "productDescription": "A simple current account with handy extras. Get all the benefits you'd expect from a bank account and more, including access to a  range of products and rates.",
+      "ATMLimit": "300.00",
+      "tAndCs": [
+        "http://www.hsbc.co.uk/1/PA_esf-ca-app-content/content/uk/pdfs/en/46447_PersonalBankingTermsConditions.pdf"
+      ],
+      "accessChannels": [
+        "BRANCH",
+        "PHONE",
+        "INTERNET",
+        "SMARTPHONE"
+      ],
+      "cardType": "Debit Visa",
+      "contactless": "Yes",
+      "mobileWallet": [
+        "Android Pay",
+        "Apple Pay",
+        "Issuer Mobile App"
+      ],
+      "cardNotes": [
+        "Subject to status"
+      ],
+      "chequebookAvailable": "Yes",
+      "isCreditCheckPerformed": "Yes",
+      "creditScoringAccount": [],
+      "creditScoringType": "",
+      "creditScoringDetails": "",
+      "creditScoringIdVerification": "Yes",
+      "maximumMonthlyCharge": "",
+      "productUrl": [
+        "http://www.hsbc.co.uk/1/2/current-accounts/bank-account"
+      ],
+      "currency": [
+        "GBP"
+      ]
+    },
+    "card": {
+      "paymentSchemeExchangeRate": "",
+      "exchangeRateAdjustment": "",
+      "paymentSchemeExchangeFeeRate": [],
+      "nonSterlingTransactionFee": [],
+      "nonSterlingTransactionfeeRate": [],
+      "nonSterlingPurchaseFee": [],
+      "nonSterlingPurchaseFeeRate": [],
+      "nonSterlingCashFee": [],
+      "nonSterlingCashFeeRate": [],
+      "foreignPurchaseFee": [],
+      "foreignPurchaseFeeRate": [],
+      "foreignCashFee": [],
+      "foreignCashFeeRate": []
+    },
+    "eligibility": {
+      "ageRestricted": "Yes",
+      "minimumAge": "18",
+      "maximumAge": "",
+      "otherFinancialHolding": "No",
+      "eligibilityDescription": ".",
+      "incomeRelated": "Yes",
+      "singleJointIncome": "",
+      "minimumIncomeAmount": "",
+      "minimumIncomeCurrency": "GBP",
+      "minimumIncomeTimePeriod": "",
+      "waysMinIncomePaidIn": "",
+      "minIncomePaidAccountMonth": "500.00",
+      "annualCompanyTurnover": "",
+      "annualCompanyTurnoverCurrency": "",
+      "residencyRestricted": "Yes",
+      "residencyRegion": "EU",
+      "maxNoOfAccounts": "",
+      "ThirdSectorOrganisations": "No",
+      "minimumDeposit": "No",
+      "openingDepositMinAmount": [],
+      "openingDepositMinCurrency": "",
+      "maximumOpeningAmount": "",
+      "openingDepositMaximumAmount": [],
+      "openingDepositMaxCurrency": "",
+      "eligibilityName": "",
+      "eligibilityType": "",
+      "eligibilityNotes": [
+        "You must pay at least £500 a month into your account (this doesn’t apply if you’re under 24 or 65 and over)."
+      ],
+      "previousBankruptcy": "Yes",
+      "marketingEligibility": []
+    },
+    "fee": [
+      {
+        "feeType": [
+          "Stopped Cheque Fee"
+        ],
+        "feeSubType": [],
+        "startPromotion": "",
+        "stopPromotion": "",
+        "lengthPromotional": "",
+        "dateOfChange": "",
+        "frequency": [
+          "Per Occurence"
+        ],
+        "feeAmount": [
+          "12.00"
+        ],
+        "feeRate": [],
+        "negotiable": [
+          "No"
+        ],
+        "representativeRate": "",
+        "feeLowerTier": [],
+        "feeHigherTier": [],
+        "feeAndCharges": [
+          "If you stop a cheque online it's £10. There is no charge for stopping a lost or stolen cheque"
+        ]
+      }
+    ],
+    "creditInterest": {
+      "creditCharged": "No",
+      "interestRateType": [],
+      "startDate": [],
+      "period": [],
+      "endDate": "",
+      "calculationFrequency": "",
+      "paymentMethod": [],
+      "fixedInterestLength": "",
+      "fixedInterestUnit": [],
+      "calculationMethod": [],
+      "interestTier": "",
+      "tierValueMaximum": "",
+      "tierValueMinimum": ".",
+      "rate": [],
+      "rateComparisionType": [],
+      "interestNotes": "",
+      "interestSubType": [],
+      "startPromotion": [],
+      "stopPromotion": [],
+      "lengthPromotional": [],
+      "dateOfChange": []
+    },
+    "overdraft": {
+      "overdraftEligibility": "Yes",
+      "interestTierSME": "",
+      "interestTierPersonal": "",
+      "tierValueMinimum": "",
+      "tierValueMaximum": "",
+      "interestRateGross": "",
+      "interestNotes": "",
+      "totalOverDraftChargeAmount": "",
+      "maxUnarrangedOverdraftAmount": [],
+      "minUnarrangedOverdraftAmount": "",
+      "dailyOverdraftFeeCap": "",
+      "monthlyOverdraftFeeCap": "",
+      "arrangedOverdraftInterestTiers": "Our current overdraft interest rate is 19.9% EAR variable",
+      "interestRate": [],
+      "interestRateCalculationFrequency": [],
+      "unArrangedOverdraftInterestTiers": "19.90",
+      "representative": [],
+      "dailyCharge": [],
+      "monthlyCharge": [],
+      "itemCharge": [],
+      "otherCharge": [],
+      "unArrangedDailyCharge": [
+        "5.00"
+      ],
+      "unArrangedMonthlyCharge": [],
+      "unArrangedItemCharge": [],
+      "unArrangedOtherCharge": [],
+      "overdraftNotes": [
+        "We’ll charge you Overdraft Interest whenever you’ve an overdrawn balance on your account. Our current Overdraft Interest rate is 19.9% EAR variable. If you apply for a current account or credit, we may use details of your credit history to assess your ability to meet your financial commitments.We won’t charge, more than £80 in daily Informal Overdraft Usage Fees in a charging month; Overdrafts are subject to status."
+      ],
+      "ratesAreNegotiable": [],
+      "representativeRate": [],
+      "bufferAmount": [],
+      "commited": [],
+      "term": [],
+      "setUpFeesAmount": [],
+      "setUpFeesRate": [],
+      "reviewFee": [],
+      "minimumFee": [],
+      "interestTierSubType": [],
+      "startPromotion": [],
+      "stopPromotion": [],
+      "lengthPromotional": [],
+      "dateOfChange": [],
+      "unAuthorizedFee": [],
+      "unAuthorizedFeeCap": []
+    },
+    "benefits": {
+      "featureType": [
+        "Savings Account"
+      ],
+      "featureName": [
+        "Regular Saver"
+      ],
+      "featureDescription": [
+        "Bank account customers can enjoy 3% AER/Gross fixed rate for 12 months with our Regular Saver. You can save from as little as £25 up to a maximum of £250 a month and a maximum of £3000 by month 12."
+      ],
+      "featureValue": [
+        "Once the account is open, no withdrawals are allowed within 12 months. If you close your account before the end of the 12 month term, you will receive interest at our Flexible Saver rate"
+      ],
+      "defaultToAccounts": [
+        "No"
+      ],
+      "benefitId": [],
+      "benefitType": [],
+      "criteriaType": [
+        "Deposit"
+      ],
+      "minimumCriteria": [
+        "25.00"
+      ],
+      "maximumCriteria": [
+        "250.00"
+      ],
+      "counter": [],
+      "description": [
+        "You can save from as little as £25 up to a maximum of £250 a month and a maximum of £3000 by month 12."
+      ],
+      "endDate": [],
+      "promotionStartDate": [],
+      "promotionEndtDate": [],
+      "benefitSubType": "",
+      "startPromotion": [],
+      "stopPromotion": [],
+      "lengthPromotional": [],
+      "dateOfChange": []
+    }
+  },
+  {
+    "organisation": {
+      "parentGroupName": "HSBCG",
+      "brandName": "HSBC UK",
+      "brandId": "HSBC UK"
+    },
+    "product": {
+      "productType": "PCA",
+      "productName": "HSBC Premier Account",
+      "productSegment": "Package",
+      "productIdentifier": "HSBC Premier Account",
+      "productDescription": "An eligibility based account offering our most exclusive level of service with tailored advice to help you build, manage and protect your wealth. Also provides access to wider benefits and preferential rates and terms. ",
+      "ATMLimit": "1000.00",
+      "tAndCs": [
+        "http://www.hsbc.co.uk/1/PA_esf-ca-app-content/content/uk/pdfs/en/46447_PersonalBankingTermsConditions.pdf"
+      ],
+      "accessChannels": [
+        "BRANCH",
+        "INTERNET",
+        "SMARTPHONE",
+        "PHONE"
+      ],
+      "cardType": "Debit Visa",
+      "contactless": "Yes",
+      "mobileWallet": [
+        "Apple Pay",
+        "Android Pay",
+        "Issuer Mobile App"
+      ],
+      "cardNotes": [
+        "Subject to status"
+      ],
+      "chequebookAvailable": "Yes",
+      "isCreditCheckPerformed": "Yes",
+      "creditScoringAccount": [],
+      "creditScoringType": "",
+      "creditScoringDetails": "",
+      "creditScoringIdVerification": "Yes",
+      "maximumMonthlyCharge": "",
+      "productUrl": [
+        "http://www.hsbc.co.uk/1/2/hsbc-premier"
+      ],
+      "currency": [
+        "GBP"
+      ]
+    },
+    "card": {
+      "paymentSchemeExchangeRate": "",
+      "exchangeRateAdjustment": "",
+      "paymentSchemeExchangeFeeRate": [],
+      "nonSterlingTransactionFee": [],
+      "nonSterlingTransactionfeeRate": [],
+      "nonSterlingPurchaseFee": [],
+      "nonSterlingPurchaseFeeRate": [],
+      "nonSterlingCashFee": [],
+      "nonSterlingCashFeeRate": [],
+      "foreignPurchaseFee": [],
+      "foreignPurchaseFeeRate": [],
+      "foreignCashFee": [],
+      "foreignCashFeeRate": []
+    },
+    "eligibility": {
+      "ageRestricted": "Yes",
+      "minimumAge": "18",
+      "maximumAge": "",
+      "otherFinancialHolding": "Yes",
+      "eligibilityDescription": "Savings or investments of at least £50,000 with HSBC in the UK; or have an individual annual income of at least £100,000 and a mortgage; an investment, life insurance or protection product in the UK; Or, qualify for HSBC Premier in another country.",
+      "incomeRelated": "Yes",
+      "singleJointIncome": "Single",
+      "minimumIncomeAmount": "100000.00",
+      "minimumIncomeCurrency": "GBP",
+      "minimumIncomeTimePeriod": "Yearly",
+      "waysMinIncomePaidIn": "",
+      "minIncomePaidAccountMonth": "",
+      "annualCompanyTurnover": "",
+      "annualCompanyTurnoverCurrency": "",
+      "residencyRestricted": "Yes",
+      "residencyRegion": "EU",
+      "maxNoOfAccounts": "",
+      "ThirdSectorOrganisations": "No",
+      "minimumDeposit": "",
+      "openingDepositMinAmount": [],
+      "openingDepositMinCurrency": "",
+      "maximumOpeningAmount": "",
+      "openingDepositMaximumAmount": [],
+      "openingDepositMaxCurrency": "",
+      "eligibilityName": "",
+      "eligibilityType": "",
+      "eligibilityNotes": [],
+      "previousBankruptcy": "Yes",
+      "marketingEligibility": []
+    },
+    "fee": [
+      {
+        "feeType": [
+          "Special Cheque Presentation"
+        ],
+        "feeSubType": [],
+        "startPromotion": "",
+        "stopPromotion": "",
+        "lengthPromotional": "",
+        "dateOfChange": "",
+        "frequency": [
+          "Per Occurence"
+        ],
+        "feeAmount": [
+          "15.00"
+        ],
+        "feeRate": [],
+        "negotiable": [
+          "No"
+        ],
+        "representativeRate": "",
+        "feeLowerTier": [],
+        "feeHigherTier": [],
+        "feeAndCharges": []
+      }
+    ],
+    "creditInterest": {
+      "creditCharged": "No",
+      "interestRateType": [],
+      "startDate": [],
+      "period": [],
+      "endDate": "",
+      "calculationFrequency": "",
+      "paymentMethod": [],
+      "fixedInterestLength": "",
+      "fixedInterestUnit": [],
+      "calculationMethod": [],
+      "interestTier": "",
+      "tierValueMaximum": "",
+      "tierValueMinimum": ".",
+      "rate": [],
+      "rateComparisionType": [],
+      "interestNotes": "",
+      "interestSubType": [],
+      "startPromotion": [],
+      "stopPromotion": [],
+      "lengthPromotional": [],
+      "dateOfChange": []
+    },
+    "overdraft": {
+      "overdraftEligibility": "Yes",
+      "interestTierSME": "",
+      "interestTierPersonal": "",
+      "tierValueMinimum": "",
+      "tierValueMaximum": "",
+      "interestRateGross": "",
+      "interestNotes": "",
+      "totalOverDraftChargeAmount": "",
+      "maxUnarrangedOverdraftAmount": [],
+      "minUnarrangedOverdraftAmount": "",
+      "dailyOverdraftFeeCap": "",
+      "monthlyOverdraftFeeCap": "",
+      "arrangedOverdraftInterestTiers": "Overdraft Interest rate on the first £500 will be 0% EAR variable. In excess of £500 our current Overdraft Interest rate is 11.9% EAR variable.",
+      "interestRate": [],
+      "interestRateCalculationFrequency": [],
+      "unArrangedOverdraftInterestTiers": "Overdraft Interest rate on the first £500 will be 0% EAR variable. In excess of £500 our current Overdraft Interest rate is 11.9% EAR variable.",
+      "representative": [],
+      "dailyCharge": [],
+      "monthlyCharge": [],
+      "itemCharge": [],
+      "otherCharge": [],
+      "unArrangedDailyCharge": [],
+      "unArrangedMonthlyCharge": [],
+      "unArrangedItemCharge": [],
+      "unArrangedOtherCharge": [],
+      "overdraftNotes": [
+        "We’ll charge you Overdraft Interest whenever you’ve an overdrawn balance on your account in excess of £500. Our current Overdraft Interest rate is 11.9% EAR variable. If you apply for a current account or credit, we may use details of your credit history to assess your ability to meet your financial commitments. Overdrafts are subject to status."
+      ],
+      "ratesAreNegotiable": [],
+      "representativeRate": [],
+      "bufferAmount": [],
+      "commited": [],
+      "term": [],
+      "setUpFeesAmount": [],
+      "setUpFeesRate": [],
+      "reviewFee": [],
+      "minimumFee": [],
+      "interestTierSubType": [],
+      "startPromotion": [],
+      "stopPromotion": [],
+      "lengthPromotional": [],
+      "dateOfChange": [],
+      "unAuthorizedFee": [],
+      "unAuthorizedFeeCap": []
+    },
+    "benefits": {
+      "featureType": [
+        "Travel Insurance"
+      ],
+      "featureName": [
+        "Worldwide Travel Insurance"
+      ],
+      "featureDescription": [
+        "As part of your HSBC Premier experience, you enjoy the benefit of Premier Worldwide Travel Insurance at no extra cost. Our cover gives you, your partner and any dependent children worldwide protection."
+      ],
+      "featureValue": [
+        "Please note: to be eligible for protection, you must be under the age of 70 on the start date of your trip."
+      ],
+      "defaultToAccounts": [
+        "Yes"
+      ],
+      "benefitId": [],
+      "benefitType": [],
+      "criteriaType": [],
+      "minimumCriteria": [],
+      "maximumCriteria": [],
+      "counter": [],
+      "description": [],
+      "endDate": [],
+      "promotionStartDate": [],
+      "promotionEndtDate": [],
+      "benefitSubType": "",
+      "startPromotion": [],
+      "stopPromotion": [],
+      "lengthPromotional": [],
+      "dateOfChange": []
+    }
+  }
+]

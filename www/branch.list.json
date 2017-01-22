@@ -1,0 +1,150 @@
+[
+  {
+    "ParentGroupName": "HSBC",
+    "ParentGroupId": "MIDLGB21",
+    "OrganisationName": "HSBC",
+    "OrganisationId": "MIDLGB21",
+    "BranchId": "400316",
+    "BranchName": "Greenwich",
+    "BranchType": "Physical",
+    "Location": {
+      "StreetName": "275 Greenwich High Road",
+      "PostCode": "SE10 8NF",
+      "TownName": "Greenwich",
+      "Country": "ENG",
+      "TelephoneNumber": "03457 404 404",
+      "Latitude": "51.479477",
+      "Longitude": "-0.01043"
+    },
+    "Availability": {
+      "MondayOpeningTime": "09:00:00",
+      "TuesdayOpeningTime": "09:30:00",
+      "WednesdayOpeningTime": "09:00:00",
+      "ThursdayOpeningTime": "09:00:00",
+      "FridayOpeningTime": "09:00:00",
+      "SaturdayOpeningTime": "09:00:00",
+      "SundayOpeningTime": "",
+      "MondayClosingTime": "17:00:00",
+      "TuesdayClosingTime": "17:00:00",
+      "WednesdayClosingTime": "17:00:00",
+      "ThursdayClosingTime": "17:00:00",
+      "FridayClosingTime": "17:00:00",
+      "SaturdayClosingTime": "14:00:00",
+      "SundayClosingTime": ""
+    },
+    "ServicesFacilities": {
+      "AtmAtBranch": true
+    }
+  },
+  {
+    "ParentGroupName": "HSBC",
+    "ParentGroupId": "MIDLGB21",
+    "OrganisationName": "HSBC",
+    "OrganisationId": "MIDLGB21",
+    "BranchId": "400245",
+    "BranchName": "Canary Wharf, Jubilee Place",
+    "BranchType": "Physical",
+    "Location": {
+      "StreetName": "45 Bank Street",
+      "PostCode": "E14 5NY",
+      "TownName": "Canary Wharf",
+      "Country": "ENG",
+      "TelephoneNumber": "03457 404 404",
+      "Latitude": "51.503078",
+      "Longitude": "-0.018595"
+    },
+    "Availability": {
+      "MondayOpeningTime": "09:00:00",
+      "TuesdayOpeningTime": "09:30:00",
+      "WednesdayOpeningTime": "09:00:00",
+      "ThursdayOpeningTime": "09:00:00",
+      "FridayOpeningTime": "09:00:00",
+      "SaturdayOpeningTime": "",
+      "SundayOpeningTime": "",
+      "MondayClosingTime": "17:00:00",
+      "TuesdayClosingTime": "17:00:00",
+      "WednesdayClosingTime": "17:00:00",
+      "ThursdayClosingTime": "17:00:00",
+      "FridayClosingTime": "17:00:00",
+      "SaturdayClosingTime": "",
+      "SundayClosingTime": ""
+    },
+    "ServicesFacilities": {
+      "AtmAtBranch": true
+    }
+  },
+  {
+    "ParentGroupName": "HSBC",
+    "ParentGroupId": "MIDLGB21",
+    "OrganisationName": "HSBC",
+    "OrganisationId": "MIDLGB21",
+    "BranchId": "400244",
+    "BranchName": "Canary Wharf, Canada Place",
+    "BranchType": "Physical",
+    "Location": {
+      "StreetName": "Retail Unit 8",
+      "PostCode": "E14 5AH",
+      "TownName": "Canary Wharf",
+      "Country": "ENG",
+      "TelephoneNumber": "03457 404 404",
+      "Latitude": "51.504463",
+      "Longitude": "-0.017454"
+    },
+    "Availability": {
+      "MondayOpeningTime": "08:00:00",
+      "TuesdayOpeningTime": "09:30:00",
+      "WednesdayOpeningTime": "08:00:00",
+      "ThursdayOpeningTime": "08:00:00",
+      "FridayOpeningTime": "08:00:00",
+      "SaturdayOpeningTime": "10:00:00",
+      "SundayOpeningTime": "12:00:00",
+      "MondayClosingTime": "19:00:00",
+      "TuesdayClosingTime": "19:00:00",
+      "WednesdayClosingTime": "19:00:00",
+      "ThursdayClosingTime": "19:00:00",
+      "FridayClosingTime": "19:00:00",
+      "SaturdayClosingTime": "18:00:00",
+      "SundayClosingTime": "18:00:00"
+    },
+    "ServicesFacilities": {
+      "AtmAtBranch": true
+    }
+  },
+  {
+    "ParentGroupName": "HSBC",
+    "ParentGroupId": "MIDLGB21",
+    "OrganisationName": "HSBC",
+    "OrganisationId": "MIDLGB21",
+    "BranchId": "400641",
+    "BranchName": "Surrey Quays",
+    "BranchType": "Physical",
+    "Location": {
+      "StreetName": "Surrey Quays Shopping Centre",
+      "PostCode": "SE16 7LL",
+      "TownName": "Redriff Road",
+      "Country": "ENG",
+      "TelephoneNumber": "03457 404 404",
+      "Latitude": "51.495398",
+      "Longitude": "-0.046964"
+    },
+    "Availability": {
+      "MondayOpeningTime": "09:30:00",
+      "TuesdayOpeningTime": "09:30:00",
+      "WednesdayOpeningTime": "09:30:00",
+      "ThursdayOpeningTime": "09:30:00",
+      "FridayOpeningTime": "09:30:00",
+      "SaturdayOpeningTime": "09:00:00",
+      "SundayOpeningTime": "",
+      "MondayClosingTime": "16:30:00",
+      "TuesdayClosingTime": "16:30:00",
+      "WednesdayClosingTime": "16:30:00",
+      "ThursdayClosingTime": "16:30:00",
+      "FridayClosingTime": "16:30:00",
+      "SaturdayClosingTime": "14:00:00",
+      "SundayClosingTime": ""
+    },
+    "ServicesFacilities": {
+      "AtmAtBranch": true
+    }
+  }
+]
